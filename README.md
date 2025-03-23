@@ -1,14 +1,15 @@
 # Astronaut-Sawmania
 A Charming 2D Platformer
 
-![ASM1](https://github.com/user-attachments/assets/5788142e-63d5-4fe9-b43f-0eee90a5689f)
+![ASM1](https://github.com/user-attachments/assets/228bf095-c4ce-4941-bd41-03ef144bccd6)
 
 Unique Levels 
 
-![ASM3](https://github.com/user-attachments/assets/2bcbf056-365e-415e-b4d2-720f734f819a)
+![ASM3](https://github.com/user-attachments/assets/65c5c64d-45e6-4363-8a2c-affa7ed5b94e)
+
 
 Dangerous Saws
 
-![ASM2](https://github.com/user-attachments/assets/8e540f52-8145-4d18-8e78-8c1de6578f2c)
+![ASM2](https://github.com/user-attachments/assets/279c00c4-a10e-4593-aa94-5c203ff49d6f)
 
 Full Game Walkthrough provided in file "Astronaut Sawmania Full Game Footage.mp4"

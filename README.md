@@ -1,4 +1,4 @@
-# Astronaut-Sawmania
+# Astronaut SawMania
 A Charming 2D Platformer
 
 ![ASM1](https://github.com/user-attachments/assets/228bf095-c4ce-4941-bd41-03ef144bccd6)
